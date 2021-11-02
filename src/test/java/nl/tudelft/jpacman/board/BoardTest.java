@@ -1,8 +1,11 @@
 package nl.tudelft.jpacman.board;
-import org.junit.jupiter.api.Test;
-import static org.assertj.core.api.Assertions.assertThat;
-import static org.mockito.Mockito.mock;
+//import org.junit.jupiter.api.Test;
+//import static org.assertj.core.api.Assertions.assertThat;
+//import static org.mockito.Mockito.mock;
 
+/**
+* Do we get the correct delta when moving north?
+*/
 public class BoardTest {
     /*int MAX_WIDTH = 1;
     int MAX_HEIGHT = 1;
