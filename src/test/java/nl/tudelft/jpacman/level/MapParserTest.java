@@ -5,7 +5,7 @@ import nl.tudelft.jpacman.npc.ghost.Blinky;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import java.util.ArrayList;
 
-import org.assertj.core.api.Assertions;
+//import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;
