@@ -24,7 +24,7 @@ public class MapParserTest {
     private LevelFactory levelFactory;
     @Mock
     private Blinky blinky;
-}
+
     /**
      * Test for the parseMap method (good map).
      */
@@ -64,5 +64,6 @@ public class MapParserTest {
                 
                 mapParser.parseMap(map);
             });
-        Assertions.assertEquals(ADDYOURCODEHERE, thrown.getMessage());*/
-    }
+        Assertions.assertEquals(ADDYOURCODEHERE, thrown.getMessage());
+    }*/
+}
